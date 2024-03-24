@@ -491,6 +491,9 @@ footer .container {
     grid-column-gap: 24px;
     grid-row-gap: 48px;
   }
+    .portfolio-items li {
+      width: 360px;
+    }
 }
 
 .hero-section {
